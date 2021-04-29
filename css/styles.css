@@ -1,5 +1,5 @@
 .background{
-	background-color: #2c2f33;
+	background-color: #23272a;
 }
 .menu-nav{
 	color: white;
@@ -17,12 +17,12 @@ nav.menu-nav ul{
 nav.menu-nav ul li a{
 	color: white;
 	text-decoration: none;
-	background-color: #23272a;
+	background-color: 00ffff;
 	border-radius: 150px;
 	padding: 15px;
 }
 nav.menu-nav ul li a:hover{
-	color: #23272a;
+	color: 00ffff;
 	text-decoration: none;
 	background-color: white;
 	border-radius: 15px;
@@ -32,7 +32,7 @@ nav.menu-nav ul li a:hover{
 .text-1{
 	color: white;
 	text-decoration: none;
-	background-color: #23272a;
+	background-color: 00ffff;
 	border-radius: 15px;
 	padding: 15px;
 	display: inline-block;
